@@ -1,4 +1,4 @@
-installation
+Installation
 ============
 
-Ideas how to setup a work laptop
+Ideas how to setup a work laptop.
