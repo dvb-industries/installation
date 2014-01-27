@@ -26,6 +26,12 @@ settling for [12.04][].
 I grew fond of the [fish shell][]. It can be installed from their
 [PPA][fish-PPA]. To set is as the default shell use [chsh][].
 
+### Editor
+
+Without going into a religous war my editor of choice is
+[Emacs][]. The latest version is 24. It can be installed from an
+[PPA][emacs-PPA] provided by Damien Cassou.
+
 [laptop]: http://www.dell.com/us/p/inspiron-17r-5721/pd
 [ubuntu]: http://www.ubuntu.com/
 [LTS]: https://wiki.ubuntu.com/LTS
@@ -33,3 +39,5 @@ I grew fond of the [fish shell][]. It can be installed from their
 [fish shell]: http://fishshell.com/
 [fish-PPA]: http://fishshell.com/files/2.1.0/linux/index.html#dl-ubuntu12.04
 [chsh]: http://en.wikipedia.org/wiki/Chsh
+[Emacs]: http://www.gnu.org/software/emacs/
+[emacs-PPA]: https://launchpad.net/~cassou/+archive/emacs
