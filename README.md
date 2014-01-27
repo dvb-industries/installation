@@ -21,6 +21,11 @@ The operating system will be base upon [Ubuntu][ubuntu] because
 I will opt for a [Long Term Support][LTS], which means I will be
 settling for [12.04][].
 
+### git
+
+We will be using the [git][] version control system to retrieve
+configuration.
+
 ### Shell
 
 I grew fond of the [fish shell][]. It can be installed from their
@@ -44,3 +49,4 @@ Emacs should be configured by cloning [.emacs.d][].
 [Emacs]: http://www.gnu.org/software/emacs/
 [emacs-PPA]: https://launchpad.net/~cassou/+archive/emacs
 [.emacs.d]: https://github.com/dvb-industries/.emacs.d
+[git]: http://git-scm.com/
