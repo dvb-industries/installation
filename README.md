@@ -32,6 +32,8 @@ Without going into a religous war my editor of choice is
 [Emacs][]. The latest version is 24. It can be installed from an
 [PPA][emacs-PPA] provided by Damien Cassou.
 
+Emacs should be configured by cloning [.emacs.d][].
+
 [laptop]: http://www.dell.com/us/p/inspiron-17r-5721/pd
 [ubuntu]: http://www.ubuntu.com/
 [LTS]: https://wiki.ubuntu.com/LTS
@@ -41,3 +43,4 @@ Without going into a religous war my editor of choice is
 [chsh]: http://en.wikipedia.org/wiki/Chsh
 [Emacs]: http://www.gnu.org/software/emacs/
 [emacs-PPA]: https://launchpad.net/~cassou/+archive/emacs
+[.emacs.d]: https://github.com/dvb-industries/.emacs.d
