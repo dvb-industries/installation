@@ -24,12 +24,12 @@ settling for [12.04][].
 ### git
 
 We will be using the [git][] version control system to retrieve
-configuration.
+configurations.
 
 ### Shell
 
 I grew fond of the [fish shell][]. It can be installed from their
-[PPA][fish-PPA]. To set is as the default shell use [chsh][].
+[PPA][fish-PPA]. To set it as the default shell use [chsh][].
 
 ### Editor
 
