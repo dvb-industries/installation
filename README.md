@@ -39,6 +39,11 @@ Without going into a religous war my editor of choice is
 
 Emacs should be configured by cloning [.emacs.d][].
 
+### Window Manager
+
+[i3][] is the window manager I will be using. It can be configured by
+cloning [.i3][]
+
 [laptop]: http://www.dell.com/us/p/inspiron-17r-5721/pd
 [ubuntu]: http://www.ubuntu.com/
 [LTS]: https://wiki.ubuntu.com/LTS
@@ -50,3 +55,5 @@ Emacs should be configured by cloning [.emacs.d][].
 [emacs-PPA]: https://launchpad.net/~cassou/+archive/emacs
 [.emacs.d]: https://github.com/dvb-industries/.emacs.d
 [git]: http://git-scm.com/
+[i3]: http://i3wm.org/
+[.i3]: https://github.com/dvb-industries/.i3
