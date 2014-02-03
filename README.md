@@ -59,6 +59,20 @@ manager with the following command
 sudo apt-get install git.
 ```
 
+### Clone Repository
+
+This repository needs to be cloned in order to correctly acquire the
+cookbooks. The following sequence of commands will create a scratch
+directory, clone the repository and retrieve all [submodules][].
+
+```shell
+mkdir ~/scratch
+cd ~/scratch
+git clone git@github.com:dvb-industries/installation.git
+cd installation
+git submodule update --init --recursive
+```
+
 [laptop]: http://www.dell.com/us/p/inspiron-17r-5721/pd
 [ubuntu]: http://www.ubuntu.com/
 [LTS]: https://wiki.ubuntu.com/LTS
@@ -72,4 +86,4 @@ sudo apt-get install git.
 [git]: http://git-scm.com/
 [i3]: http://i3wm.org/
 [.i3]: https://github.com/dvb-industries/.i3
-[submodules]:
+[submodules]: http://git-scm.com/docs/git-submodule
