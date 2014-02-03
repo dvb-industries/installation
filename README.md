@@ -92,6 +92,14 @@ Below is commands will add install chef on the laptop.
 curl -L https://www.opscode.com/chef/install.sh | sudo bash
 ```
 
+### Run Chef Solo
+
+To let chef provision execute the following command
+
+```shell
+sudo chef-solo -c provision.rb -j provision.json
+```
+
 [laptop]: http://www.dell.com/us/p/inspiron-17r-5721/pd
 [ubuntu]: http://www.ubuntu.com/
 [LTS]: https://wiki.ubuntu.com/LTS
