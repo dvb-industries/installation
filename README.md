@@ -44,6 +44,21 @@ Emacs should be configured by cloning [.emacs.d][].
 [i3][] is the window manager I will be using. It can be configured by
 cloning [.i3][]
 
+Provisioning
+------------
+
+The minimal setup to provision a laptop is described below.
+
+### Install git
+
+[git] is used to retrieve the repository that contains cookbooks that
+will be used to provision the laptop. You can get it from the package
+manager with the following command
+
+```shell
+sudo apt-get install git.
+```
+
 [laptop]: http://www.dell.com/us/p/inspiron-17r-5721/pd
 [ubuntu]: http://www.ubuntu.com/
 [LTS]: https://wiki.ubuntu.com/LTS
@@ -57,3 +72,4 @@ cloning [.i3][]
 [git]: http://git-scm.com/
 [i3]: http://i3wm.org/
 [.i3]: https://github.com/dvb-industries/.i3
+[submodules]:
