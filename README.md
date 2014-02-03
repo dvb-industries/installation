@@ -59,6 +59,14 @@ manager with the following command
 sudo apt-get install git.
 ```
 
+### Register ssh key
+
+[GitHub][] hosts the repository that is used. In order to have write
+access to the cookbooks repositories it is necessary to register an
+ssh key.
+
+You can find details in the [documentation][ssh-documentation].
+
 ### Clone Repository
 
 This repository needs to be cloned in order to correctly acquire the
@@ -87,3 +95,5 @@ git submodule update --init --recursive
 [i3]: http://i3wm.org/
 [.i3]: https://github.com/dvb-industries/.i3
 [submodules]: http://git-scm.com/docs/git-submodule
+[GitHub]: https://github.com/
+[ssh-documentation]: https://help.github.com/articles/generating-ssh-keys
