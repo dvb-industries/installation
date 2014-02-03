@@ -81,6 +81,17 @@ cd installation
 git submodule update --init --recursive
 ```
 
+### Chef Solo
+
+We will rely on Chef to provision the laptop. Because we do not
+want to depend on Chef Server we will use [chef-solo][].
+
+Below is commands will add install chef on the laptop.
+
+```shell
+curl -L https://www.opscode.com/chef/install.sh | sudo bash
+```
+
 [laptop]: http://www.dell.com/us/p/inspiron-17r-5721/pd
 [ubuntu]: http://www.ubuntu.com/
 [LTS]: https://wiki.ubuntu.com/LTS
@@ -97,3 +108,4 @@ git submodule update --init --recursive
 [submodules]: http://git-scm.com/docs/git-submodule
 [GitHub]: https://github.com/
 [ssh-documentation]: https://help.github.com/articles/generating-ssh-keys
+[chef-solo]: http://wiki.opscode.com/display/chef/Chef+Solo
