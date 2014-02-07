@@ -88,6 +88,11 @@ want to depend on Chef Server we will use [chef-solo][].
 
 Below is commands will add install chef on the laptop.
 
+The installation procedure depends on curl so we need to install that.
+
+```shell
+sudo apt-get install curl
+```
 ```shell
 curl -L https://www.opscode.com/chef/install.sh | sudo bash
 ```
