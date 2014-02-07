@@ -1,3 +1,9 @@
 {
+    "emacsd" : {
+	"destination": "/home/dvberkel/.emacs.d",
+	"repository": "https://github.com/dvb-industries/.emacs.d.git",
+	"user": "dvberkel",
+	"group": "dvberkel"
+    },
     "run_list": [ "recipe[dvb-industries::default]" ]
 }
