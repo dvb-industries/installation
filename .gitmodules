@@ -1,0 +1,3 @@
+[submodule "cookbooks/emacs"]
+	path = cookbooks/emacs
+	url = https://github.com/dvb-industries/emacs.git
