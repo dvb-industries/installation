@@ -5,5 +5,11 @@
 	"user": "dvberkel",
 	"group": "dvberkel"
     },
+    "i3" : {
+	"destination": "/home/dvberkel/.i3",
+	"repository": "https://github.com/dvb-industries/.i3.git",
+	"user": "dvberkel",
+	"group": "dvberkel"
+    },
     "run_list": [ "recipe[dvb-industries::default]" ]
 }
