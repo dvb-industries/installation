@@ -1,3 +1,6 @@
 [submodule "cookbooks/emacs"]
 	path = cookbooks/emacs
 	url = https://github.com/dvb-industries/emacs.git
+[submodule "cookbooks/i3"]
+	path = cookbooks/i3
+	url = https://github.com/dvb-industries/i3.git
