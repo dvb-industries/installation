@@ -1,4 +1,8 @@
-recipes = %w{emacs i3 fish latex node}
+basis = %{emacs i3 fish}
+mathematics = %w{latex}
+languages = %w{node haskell}
+
+recipes = [basis, mathematics, languages]
 
 recipes.flatten.each do |a_recipe|
   include_recipe a_recipe
