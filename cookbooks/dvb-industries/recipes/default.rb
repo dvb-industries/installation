@@ -1,5 +1,5 @@
 basis = %{emacs i3 fish}
-mathematics = %w{latex}
+mathematics = %w{latex geogebra}
 languages = %w{node haskell prolog scheme}
 
 recipes = [basis, mathematics, languages]
