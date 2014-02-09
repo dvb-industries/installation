@@ -31,3 +31,6 @@
 [submodule "cookbooks/proofgeneral"]
 	path = cookbooks/proofgeneral
 	url = https://github.com/dvb-industries/proofgeneral.git
+[submodule "cookbooks/caps_lock"]
+	path = cookbooks/caps_lock
+	url = https://github.com/dvb-industries/caps_lock.git
