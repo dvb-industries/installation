@@ -7,3 +7,6 @@
 [submodule "cookbooks/fish"]
 	path = cookbooks/fish
 	url = https://github.com/dvb-industries/fish.git
+[submodule "cookbooks/latex"]
+	path = cookbooks/latex
+	url = https://github.com/dvb-industries/latex.git
