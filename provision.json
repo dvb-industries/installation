@@ -14,5 +14,13 @@
     "fish" : {
 	"user": "dvberkel"
     },
+    "proofgeneral" : {
+	"dir": "/opt/",
+	"url": "http://proofgeneral.inf.ed.ac.uk/releases/",
+	"package": "ProofGeneral-4.2.tgz",
+	"target_file": "/home/dvberkel/.emacs.d/ProofGeneral",
+	"user": "dvberkel",
+	"group": "dvberkel"
+    },
     "run_list": [ "recipe[dvb-industries::default]" ]
 }
