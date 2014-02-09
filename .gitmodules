@@ -25,3 +25,6 @@
 [submodule "cookbooks/geogebra"]
 	path = cookbooks/geogebra
 	url = https://github.com/dvb-industries/geogebra.git
+[submodule "cookbooks/coq"]
+	path = cookbooks/coq
+	url = https://github.com/dvb-industries/coq.git
