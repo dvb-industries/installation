@@ -11,5 +11,8 @@
 	"user": "dvberkel",
 	"group": "dvberkel"
     },
+    "fish" : {
+	"user": "dvberkel"
+    },
     "run_list": [ "recipe[dvb-industries::default]" ]
 }
