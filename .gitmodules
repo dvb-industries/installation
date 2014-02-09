@@ -10,3 +10,6 @@
 [submodule "cookbooks/latex"]
 	path = cookbooks/latex
 	url = https://github.com/dvb-industries/latex.git
+[submodule "cookbooks/node"]
+	path = cookbooks/node
+	url = https://github.com/dvb-industries/node.git
