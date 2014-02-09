@@ -28,3 +28,6 @@
 [submodule "cookbooks/coq"]
 	path = cookbooks/coq
 	url = https://github.com/dvb-industries/coq.git
+[submodule "cookbooks/proofgeneral"]
+	path = cookbooks/proofgeneral
+	url = https://github.com/dvb-industries/proofgeneral.git
