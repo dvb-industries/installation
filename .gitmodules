@@ -13,3 +13,6 @@
 [submodule "cookbooks/node"]
 	path = cookbooks/node
 	url = https://github.com/dvb-industries/node.git
+[submodule "cookbooks/haskell"]
+	path = cookbooks/haskell
+	url = https://github.com/dvb-industries/haskell.git
