@@ -16,3 +16,6 @@
 [submodule "cookbooks/haskell"]
 	path = cookbooks/haskell
 	url = https://github.com/dvb-industries/haskell.git
+[submodule "cookbooks/prolog"]
+	path = cookbooks/prolog
+	url = https://github.com/dvb-industries/prolog.git
