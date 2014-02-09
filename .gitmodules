@@ -22,3 +22,6 @@
 [submodule "cookbooks/scheme"]
 	path = cookbooks/scheme
 	url = https://github.com/dvb-industries/scheme.git
+[submodule "cookbooks/geogebra"]
+	path = cookbooks/geogebra
+	url = https://github.com/dvb-industries/geogebra.git
