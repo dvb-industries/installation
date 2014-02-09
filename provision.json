@@ -22,5 +22,8 @@
 	"user": "dvberkel",
 	"group": "dvberkel"
     },
+    "caps_lock" : {
+	"user": "dvberkel"
+    },
     "run_list": [ "recipe[dvb-industries::default]" ]
 }
