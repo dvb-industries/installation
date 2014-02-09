@@ -4,3 +4,6 @@
 [submodule "cookbooks/i3"]
 	path = cookbooks/i3
 	url = https://github.com/dvb-industries/i3.git
+[submodule "cookbooks/fish"]
+	path = cookbooks/fish
+	url = https://github.com/dvb-industries/fish.git
