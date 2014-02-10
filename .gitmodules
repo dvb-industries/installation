@@ -37,3 +37,6 @@
 [submodule "cookbooks/java"]
 	path = cookbooks/java
 	url = https://github.com/dvb-industries/java.git
+[submodule "cookbooks/leiningen"]
+	path = cookbooks/leiningen
+	url = https://github.com/dvb-industries/leiningen.git
