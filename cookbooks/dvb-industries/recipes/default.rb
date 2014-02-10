@@ -1,6 +1,6 @@
 basis = %w{emacs i3 fish caps_lock}
 mathematics = %w{latex geogebra coq proofgeneral}
-languages = %w{node haskell prolog scheme}
+languages = %w{node haskell prolog scheme java}
 
 recipes = [basis, mathematics, languages]
 
