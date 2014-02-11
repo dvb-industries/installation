@@ -15,7 +15,7 @@ by the output of the following command.
 lspci -nnk | grep -iA2 net
 ```
 
-=output
+=output=
 
 ```
 02:00.0 Network controller [0280]: Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter [168c:0036] (rev 01)
@@ -139,4 +139,4 @@ sudo chef-solo -c provision.rb -j provision.json
 [GitHub]: https://github.com/
 [ssh-documentation]: https://help.github.com/articles/generating-ssh-keys
 [chef-solo]: http://wiki.opscode.com/display/chef/Chef+Solo
-[atheros-driver]: http://www.childsplay.mobi/blog/?p=194
+[atheros-driver]: http://ubuntuforums.org/showthread.php?t=2172044
