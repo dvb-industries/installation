@@ -8,6 +8,23 @@ Hardware
 
 I have bought a [Dell Inspiron 17R][laptop].
 
+The laptop sports an Qualcomm Atheros Wireless Network adaptor as seen
+by the output of the following command.
+
+```
+lspci -nnk | grep -iA2 net
+```
+
+=output
+
+```
+02:00.0 Network controller [0280]: Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter [168c:0036] (rev 01)
+	Subsystem: Dell Device [1028:020c]
+```
+
+In order to retrieve correct drivers follow the instructions on [this
+blog post][atheros-driver].
+
 Software
 --------
 
@@ -122,3 +139,4 @@ sudo chef-solo -c provision.rb -j provision.json
 [GitHub]: https://github.com/
 [ssh-documentation]: https://help.github.com/articles/generating-ssh-keys
 [chef-solo]: http://wiki.opscode.com/display/chef/Chef+Solo
+[atheros-driver]: http://www.childsplay.mobi/blog/?p=194
