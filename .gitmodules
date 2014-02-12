@@ -40,3 +40,6 @@
 [submodule "cookbooks/leiningen"]
 	path = cookbooks/leiningen
 	url = https://github.com/dvb-industries/leiningen.git
+[submodule "cookbooks/xautolock"]
+	path = cookbooks/xautolock
+	url = https://github.com/dvb-industries/xautolock.git
