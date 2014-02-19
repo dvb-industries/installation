@@ -43,3 +43,6 @@
 [submodule "cookbooks/xautolock"]
 	path = cookbooks/xautolock
 	url = https://github.com/dvb-industries/xautolock.git
+[submodule "cookbooks/imagemagick"]
+	path = cookbooks/imagemagick
+	url = git@github.com:dvb-industries/imagemagick.git
