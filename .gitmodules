@@ -46,3 +46,6 @@
 [submodule "cookbooks/imagemagick"]
 	path = cookbooks/imagemagick
 	url = git@github.com:dvb-industries/imagemagick.git
+[submodule "cookbooks/eclipse"]
+	path = cookbooks/eclipse
+	url = https://github.com/dvb-industries/eclipse.git
