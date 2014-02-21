@@ -25,5 +25,14 @@
     "caps_lock" : {
 	"user": "dvberkel"
     },
+    "eclipse": {
+	"bin": "/tmp/bin/",
+	"download": "/tmp/bin/",
+	"url": "http://eclipse.mirror.triple-it.nl/technology/epp/downloads/release/kepler/SR1/",
+	"package": "eclipse-cpp-kepler-SR1-linux-gtk-x86_64.tar.gz",
+	"package_name": "eclipse-kepler",
+	"user": "dvberkel",
+	"group": "dvberkel"
+    },
     "run_list": [ "recipe[dvb-industries::default]" ]
 }
